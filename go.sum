@@ -1,0 +1,8 @@
+github.com/gotidy/copy v0.2.6 h1:tp+Gf+2O7kVhVrFrsnJCA/pGcrH3iOWpFuZi5GwVMlg=
+github.com/gotidy/copy v0.2.6/go.mod h1:Cuk77ZDA+nVcwJ+7sa7BEJFz8ndn9+JyQ00dPGrQOyI=
+github.com/gotidy/ptr v1.3.0/go.mod h1:vpltyHhOZE+NGXUiwpVl3wV9AGEBlxhdnaimPDxRLxg=
+github.com/jinzhu/copier v0.0.0-20190924061706-b57f9002281a/go.mod h1:yL958EeXv8Ylng6IfnvG4oflryUi3vgA3xPs9hmII1s=
+github.com/jinzhu/copier v0.0.0-20201025035756-632e723a6687 h1:bWXum+xWafUxxJpcXnystwg5m3iVpPYtrGJFc1rjfLc=
+github.com/jinzhu/copier v0.0.0-20201025035756-632e723a6687/go.mod h1:24xnZezI2Yqac9J61UC6/dG/k76ttpq0DdJI3QmUvro=
+github.com/ulule/deepcopier v0.0.0-20200430083143-45decc6639b6 h1:TtyC78WMafNW8QFfv3TeP3yWNDG+uxNkk9vOrnDu6JA=
+github.com/ulule/deepcopier v0.0.0-20200430083143-45decc6639b6/go.mod h1:h8272+G2omSmi30fBXiZDMkmHuOgonplfKIKjQWzlfs=
