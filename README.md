@@ -3,7 +3,7 @@
 Benchmarks for [Copy](https://github.com/gotidy/copy) project
 
 ```sh
-go test -bench=. -benchmem ./...
+go test -bench . -benchmem
 goos: darwin
 goarch: amd64
 pkg: github.com/gotidy/copy-bench
